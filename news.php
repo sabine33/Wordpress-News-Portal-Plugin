@@ -1,10 +1,10 @@
 <?php
 /*
 * Plugin Name: TBO NewsPortal
-* Plugin URI: https://anssoftinc.com.np
-* Author: Sabin khanal, Sizan Dyola and Arjun Kandel
-* Author URI: https://anssoftinc.com.np
-* Description: Newsportal plugin 
+* Plugin URI: https://techbytesonline.com.np
+* Author: Sabin khanal
+* Author URI: https://sabinkhanal.com.np
+* Description: Newsportal plugin for news websites
 * Version: 1.0.0
 * License: GPL2
 * License URI:  https://www.gnu.org/licenses/gpl-2.0.html
